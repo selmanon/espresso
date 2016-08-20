@@ -9,4 +9,4 @@ Choose Run -> Edit configurations
 
 Espresso Test Result
 
-![alt tag](httpshttps://github.com/selmanon/espresso/blob/master/screenshots/runtestconfig.png)
+![alt tag](https://github.com/selmanon/espresso/blob/master/screenshots/espressotestresult.png)
