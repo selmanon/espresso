@@ -1,5 +1,19 @@
 # espresso showcase
 
+What the project do as Test ? 
+Check if the `MainActivity` contain `Hello`
+
+What the project use from the Espresso API ?
+ - onView
+ - check
+ - ViewAssertions
+ - matches
+ 
+Everything About Espresso is here : 
+
+![alt tag](http://i1.wp.com/adventuresinqa.com/wp-content/uploads/2015/04/Espresso-Cheat-Sheet.jpg?zoom=2&resize=620%2C477)
+
+
 Choose Run -> Edit configurations
 
  - Set the module : to app
