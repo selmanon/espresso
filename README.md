@@ -1,5 +1,7 @@
 # espresso showcase
 
+![espresso](https://circleci.com/gh/selmanon/espresso.svg?style=shield&circle-token=31:1f:f8:6a:09:eb:94:46:ca:9f:00:c2:a8:3c:72:40)
+
 What the project do as Test ? 
 Check if the `MainActivity` contain `Hello`
 
