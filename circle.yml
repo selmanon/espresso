@@ -21,4 +21,4 @@ test:
             timeout: 360
 
         - ./gradlew assembleRelease
-        - cp -r espresso/build/outputs $CIRCLE_ARTIFACTS
+        - cp -r espresso/app/build/outputs $CIRCLE_ARTIFACTS
